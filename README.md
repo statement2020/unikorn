@@ -1,4 +1,5 @@
 #Unikorn
+[![Build Status](https://travis-ci.org/statement2020/unikorn.svg?branch=master)](https://travis-ci.org/statement2020/unikorn)
 
 **Make testing your SQL integrations easy.**
 
